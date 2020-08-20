@@ -1,0 +1,40 @@
+Buildind_Trust_in_the_Untrustable
+
+Author name;
+    Paper was written by Thomas Kuhn,Barbora buhnova,Daniel schnelder,Emillia choraica.
+
+Venue;
+University of California at Irvine,USA.
+
+Date;
+
+“Friday 10 july “ on 42nd international conference on Software Engineering.
+
+Abstract;
+
+Trust is a major aspect in the relationship between humans and autonomous safety-critical systems, such as autonomous vehicles. Although human errors may cause higher risks, failures of autonomous systems are more strongly perceived by the general population, which hinders the adoption of autonomous safety-critical systems. It is therefore necessary to devise approaches for systematically building trust in autonomous functions and thereby facilitate the adoption process. In this paper, we introduce a method and a framework for incremental building of trust in the context of autonomous driving. Within the envisioned solution, we employ the psychological narrative behind trust building through the formation of new habits and we introduce a method where trust is established gradually for both the human and the autonomous safety-critical system via reputation
+building and step-by-step integration of smart software agents replacing human actions.
+
+
+Trust is major concert deriving out society, Trust plays major key role in adaptation of various innovations. Although the automatic deriving would decrease the number bod accident accidently.
+ 
+ The level of trust we use different multitude of methods and Regarding a quantified  reputation, Scholars devide trust in two types, Belief based trust and Computation based trust. 
+
+Previosely the concept of trust was about the various accord. 
+Suppose "Firm belief","Decision making", "Behavior information" and "Feed back" . But from the human perspective, some psychological terms while analysing trust in autonomic system are given below;
+
+1. The Moral and Emotional aspects of trust. The relationship of human with building trust is categarized into two, Morality related with moral problems and Affect related with emotions.
+
+2. Trust in automated systems. After automatic system, People do have multiple of studies for the human trust in autonomous system, additionaly they do have created vatious models of trust after the development of autonomous system and man has to work on automatic system like monitor.
+
+3.The historical adoption  of technology in regarding of building trust is at large, stretch previously people were unware about the avionics and automative domains. With reference of time, technology touches to sky from the bottom of the earth. Previousely people merely used to live on earth, after using some technics they used to live in the sea and finally they used to live in space with the help of super technology. This is all about the adoptation of technology.
+Architecture of this platform works like arm in both the development of trust and evolution of trust. This platform consists of following assets; An ‘Interacting Entity’ is either the ‘user’, a ‘software smart agent’, or a ‘platform resource’, such as an ECU (Embedded Control Unit) to which a software smart agent is downloaded. An interacting entity triggers major decision events, which serve as ‘Commands’ for the system and has observable ‘Reactions’. The entities can interact with each other and their behavior is supervised by an ‘Evaluator’. The Evaluator monitors the interacting entities and veriﬁes the set of ‘Speciﬁcations’ and ‘Expectations’, and then computes the ‘Proven-in-Use Reputation’. 
+
+Conclusion;
+
+From this paper we conclude , It is becoming increasingly obvious that broad-scale adoption of autonomous systems needs to be engineered around human psychological needs because unconsciously, people have a certain level of expectation regarding the services and products they use. Whether a product or service conforms to the user’s expectations or not influences their perception, which in turn greatly influences the social adoption rate of new technologies.
+
+Therefore autonomous system needs to be engineered around human pychological needs and we should be familiar in regard of technology  OR
+Simply we should be technically smart. 
+
+
